@@ -11,7 +11,7 @@ const Car = require("./models/car");
 const Comment = require("./models/comment");
 const User = require("./models/user");
 
-const port = 3000;
+//const port = 3000;
 //const seedDB = require("./seeds");
 
 //Routes
@@ -53,8 +53,8 @@ app.use(indexRoutes);
 app.use(carRoutes);
 app.use(commentRoutes);
 
-//app.listen(process.env.PORT, process.env.IP);
+app.listen(process.env.PORT, process.env.IP);
 
-app.listen(port, ()=> console.log("PrimeMobile server now listening on port " + port));
+//app.listen(port, ()=> console.log("PrimeMobile server now listening on port " + port));
 
 
