@@ -4,7 +4,7 @@ A market place for collectible classic cars
 
 ## Live Demo
 
-To see the app in action, go to [https://vast-chamber-83297.herokuapp.com/](https://vast-chamber-83297.herokuapp.com/)
+To see the app in action, go to [https://primemobiles-app-197.herokuapp.com](https://primemobiles-app-197.herokuapp.com/)
 
 ## Features
 
